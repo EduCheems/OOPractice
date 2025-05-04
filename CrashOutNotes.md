@@ -23,3 +23,12 @@
 - Hide other details and show only what's needed bout the object? -> **Abstraction**
 
 
+**3.** Scope and Capabilities: What's the scope (fields) / capabilities and functions (methods) of the object? 
+
+
+**4.** Anticipate what would happen if you change something: Where should you go when modfying something / what would break if you chance something? 
+
+
+**5.** Don't repeat yourself: It's self explanatory bro 
+
+
