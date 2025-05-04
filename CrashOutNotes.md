@@ -11,11 +11,11 @@
 **2.** Check the relationship with other objects: 
 
 
-##### -What is the child/parent relationship with other objects/classes? -> **Inheritance**
+-What is the child/parent relationship with other objects/classes? -> **Inheritance**
 
 
-##### -Wanna change something bout the object without affecting other attributes/behavior? -> **Encapsulation**
+-Wanna change something bout the object without affecting other attributes/behavior? -> **Encapsulation**
 
 
-#####
+-
 
