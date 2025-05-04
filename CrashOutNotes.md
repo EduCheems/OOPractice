@@ -5,10 +5,10 @@
 #### OOP means you apply variables as real-life objects with real-life relations, functions, and attributes via coding: 
 
 
-**1.** #### Start with a concept:Object -> Attributes -> Functions/Behavior (Methods) 
+**1.** Start with a concept:Object -> Attributes -> Functions/Behavior (Methods) 
 
 
-**2.** #### Check the relationship with other objects: 
+**2.** Check the relationship with other objects: 
 
 
 ##### -What is the child/parent relationship with other objects/classes? -> **Inheritance**
