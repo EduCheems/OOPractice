@@ -62,4 +62,19 @@ Ex: Class: DogName -> Object: Buddy
 ## SESSION 2: Java vs C in syntax 
 
 
+**1.** For Java, you need to wrap functions in a class 
 
+
+**2.** You need to manually import scanner functions in Java (import.java.uti.Scanner)
+
+
+**3.** You have to put f,l,d for float, double, long values. 
+
+
+**4.** We have an actual String data type fo Java 
+
+
+**5.** Same syntax for if-else statements 
+
+
+**6.** 
