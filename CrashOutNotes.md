@@ -52,3 +52,8 @@
 
 **College/Department:** Department Name, Number of faculty, Number of students, College code 
 
+
+### NOTE: Class = Blueprint -> Object = The specific instance you make out of the class 
+
+
+Ex: Class: DogName -> Object: Buddy 
