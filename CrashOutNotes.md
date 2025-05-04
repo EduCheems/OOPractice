@@ -74,7 +74,19 @@ Ex: Class: DogName -> Object: Buddy
 **4.** We have an actual String data type fo Java 
 
 
-**5.** Same syntax for if-else statements 
+**5.** Same syntax for if-else and switch statements 
 
 
-**6.** 
+**6.** Same syntax for loops though java has that specific loop that looks like this: 
+
+
+**7.** You need to define how accessible your functions are in Java (e.g: public, private, protected). 
+
+
+ **8.** The keyword "static" shares a member to the whole class (it's not unique for every instance) 
+
+
+**9.** For Arrays: You declare it like: <data type>[] Name;
+
+
+## SESSION 3: 
