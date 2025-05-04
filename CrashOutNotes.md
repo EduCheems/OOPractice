@@ -17,5 +17,9 @@
 - Wanna change something bout the object without affecting other attributes/behavior? -> **Encapsulation**
 
 
--
+- You intend to make your object flexible or like it can be anything? -> **Polymorphism (Runtime and Compile-Time)** 
+
+
+- Hide other details and show only what's needed bout the object? -> **Abstraction**
+
 
