@@ -57,3 +57,9 @@
 
 
 Ex: Class: DogName -> Object: Buddy 
+
+
+## SESSION 2: Java vs C in syntax 
+
+
+
