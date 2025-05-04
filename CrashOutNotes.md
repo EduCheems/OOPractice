@@ -29,6 +29,26 @@
 **4.** Anticipate what would happen if you change something: Where should you go when modfying something / what would break if you chance something? 
 
 
-**5.** Don't repeat yourself: It's self explanatory bro 
+**5.** Don't repeat yourself: It's self explanatory bro hahaha 
 
+
+### Example: Make relationships using domain, School Systems:
+
+
+#### **Class:** School Details, Buildings, Students, Course/Degree, College/Departments 
+
+
+**School Details:** Name, Address, Dimensions, School Type, Year of establishment
+
+
+**Buildings:** Name of building, Dimension of building, Number of floors, Number of rooms, Time in/ Time out 
+
+
+**Students:** Name of student, ID number, Age, Sex, Number, Address
+
+
+**Course/Degree:** Course Name, College Department, Type of degree (UG, masters, PhD), Passing Rate, Number of graduates
+
+
+**College/Department:** Department Name, Number of faculty, Number of students, College code 
 
